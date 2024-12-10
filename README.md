@@ -25,6 +25,8 @@ The project explores the capabilities of QSVM in handling non-linear datasets an
 - In the presentation, I reported an accuracy improvement with QSVM when running the **Heart Disease Dataset**. However, further analysis revealed that part of the improvement was due to imbalances in the dataset.  
 - This updated version addresses those issues by preprocessing the data more rigorously, offering a deeper interpretation of accuracy performance for both QSVM and classical SVM models.
 - Qiskit is updated frequently, some libraries in this notebook may be deprecated in the future, please keep track of the IBM documentation.
+- **ChatGPT Contribution**: ChatGPT was utilized for minor tasks such as code rearrangement, data loading, and improving code readability to ensure a better presentation.
+
 ---
 
 ## **Datasets**
