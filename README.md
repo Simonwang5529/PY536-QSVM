@@ -1,6 +1,10 @@
 # Quantum Support Vector Machine (QSVM) Implementation and Performance Analysis
 
-This repository contains the implementation and performance analysis of a **Quantum Support Vector Machine (QSVM)**, where QSVM_local.ipynb is the final version of the project. QSVM1 is the one with connection to the IBM quantum computer, but my account got banned. The project explores the capabilities of QSVM in handling non-linear datasets and compares its performance to classical Support Vector Machines (SVM). 
+This repository contains the implementation and performance analysis of a **Quantum Support Vector Machine (QSVM)**, where QSVM_local.ipynb is the final version of the project. 
+
+QSVM1 is the one with connection to the IBM quantum computer, but my account got banned. 
+
+The project explores the capabilities of QSVM in handling non-linear datasets and compares its performance to classical Support Vector Machines (SVM). 
 ---
 
 ## Contents
